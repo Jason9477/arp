@@ -17,4 +17,3 @@ int main(){
 	system(cstr);
 	return 0;
 }
- 
